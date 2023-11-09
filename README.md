@@ -1,5 +1,13 @@
 <h1 align="center"> Pushkar S </h1>
 
+## My Education :-
+
+Institution | Year
+----------- | ----
+Carmel School | 2020
+RV PU College | 2022
+PES University | 2026
+
 ## My Interests :-
 
 Topics | Acheivements
